@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\bin\Debug\net6.0\NewCalculator.exe
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\bin\Debug\net6.0\NewCalculator.deps.json
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\bin\Debug\net6.0\NewCalculator.runtimeconfig.json
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\bin\Debug\net6.0\NewCalculator.dll
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\bin\Debug\net6.0\NewCalculator.pdb
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.csproj.AssemblyReference.cache
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.AssemblyInfoInputs.cache
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.AssemblyInfo.cs
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.dll
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\refint\NewCalculator.dll
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.pdb
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\NewCalculator.genruntimeconfig.cache
+C:\Users\Decagon\source\repos\NewCalculator\NewCalculator\obj\Debug\net6.0\ref\NewCalculator.dll
